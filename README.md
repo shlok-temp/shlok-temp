@@ -1,8 +1,6 @@
 <!-- Banner -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:06b6d4&height=220&section=header&text=Hi%20there!%20I'm%20a%20Web%20Developer%20👋&fontSize=40&fontAlignY=35&desc=Building%20products%20across%20domains%20with%20code&descAlignY=55" />
-</p>
+![Header](./banner.png)
 
 ---
 
@@ -64,16 +62,3 @@ Beyond pure coding, I bring experience from multiple domains:
 This helps me communicate well with **non-technical stakeholders** and design systems that actually make sense in real contexts.
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shlok-temp&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlok-temp&layout=compact&theme=tokyonight" height="170" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shlok-temp&color=blueviolet&style=flat-square" />
-</p>
